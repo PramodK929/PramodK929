@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Pramod K ( @PramodK929 )
-- 👀 I’m interested in FullStack development, React and Java Spring
-- 🌱 I’m currently learning React and Java Spring Boot
-- 📫 How to reach me @sunkad.pramod@gmail.com
+🚀 Passionate Backend Developer | Java | Spring Boot
+👀 Interested in: Building scalable and high-performance backend systems using Java, Spring Boot, Kafka and Microservices architecture.
+🌱 Currently exploring: Advanced Spring Boot features, Microservices, Kafka, API design, system architecture, and cloud-native development.
+💡 Passionate about: Writing clean, maintainable code, optimizing performance, and following best practices in Java development.
+📫 Reach me at: sunkad.pramod@gmail.com
+Always eager to learn, innovate, and take on challenging backend development projects! 
 
 <!---
 PramodK929/PramodK929 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
